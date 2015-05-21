@@ -33,14 +33,14 @@ JS.abilities = [
  */
 JS.components = [
     "src/shared/js/Component.js",
-    "src/shared/js/Expandable.js",
-    "src/shared/js/Menu.js",
+    //"src/shared/js/Expandable.js",
+    //"src/shared/js/Menu.js",
     "src/shared/js/Popover.js",
-    // "src/shared/js/Layer.js",
+    "src/shared/js/Layer.js",
     // "src/shared/js/Tooltip.js",
     // "src/shared/js/Bubble.js",
-    "src/shared/js/Modal.js",
-    "src/shared/js/Transition.js",
+    //"src/shared/js/Modal.js",
+    //"src/shared/js/Transition.js",
     // "src/shared/js/Dropdown.js",
     "src/shared/js/Form.js",
     "src/shared/js/Condition.js",
@@ -56,8 +56,8 @@ JS.components = [
     "src/shared/js/Max.js",
     "src/shared/js/Custom.js",
     "src/shared/js/Required.js",
-    "src/shared/js/Countdown.js",
-    "src/shared/js/Carousel.js",
+    //"src/shared/js/Countdown.js",
+    //"src/shared/js/Carousel.js",
     // "src/shared/js/Calendar.js",
     "src/shared/js/Autocomplete.js"
 ];
